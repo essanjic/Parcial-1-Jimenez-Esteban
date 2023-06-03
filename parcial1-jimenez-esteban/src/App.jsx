@@ -10,7 +10,7 @@ function App() {
     <>
     <h1>Plantilla Parcial I</h1>
   <div className="card">
-  Se inicia con un h1 y un div de tarjeta
+  Se inicia con un h1 y un div de tarjeta F
   </div>
     </>
   )
