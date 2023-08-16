@@ -1,0 +1,19 @@
+.form {
+  background-color: rgb(46, 94, 166);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    gap: 1em;
+    border: 1px solid #ccc;
+    padding: 30px;
+  }
+  
+  .card {
+    background-color:  rgba(111, 132, 140, 0.816);
+    padding: 30px;
+    border: 1px solid #898484;
+    margin-top: 1em;
+    border-radius: 20px;
+  }
